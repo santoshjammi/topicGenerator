@@ -55,7 +55,7 @@ else:
 
     print(f'{len(input_kws)} keywords will be scanned against {len(kw_getters)} search engines.\n'
           f'This process may take some time, please be patient.\n')
-#    input('Press any key to continue\n')
+    # input('Press any key to continue\n')
 
     for kw in input_kws:
         kws = tuple()
