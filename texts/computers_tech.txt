@@ -14,3 +14,14 @@ progress software
 microsoft
 oracle
 IOT
+DevOps
+C++
+Go
+Rust
+perl
+Power Shell
+Bash
+MySQL
+J2SE
+J2EE
+CCNA
