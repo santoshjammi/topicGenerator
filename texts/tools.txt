@@ -1,0 +1,10 @@
+power saw
+impact drill
+drill machine
+lathe machine
+screw driver
+milling machine
+shaping machine
+power hack saw
+welding machine
+arc welding machine
