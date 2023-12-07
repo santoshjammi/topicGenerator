@@ -36,18 +36,22 @@ except FileNotFoundError:
     input('Press any key to exit')
     sys.exit()
 else:
-    kw_getters = {'Google': SES.get_google,
-                  'Bing': SES.get_bing,
-                  'Yahoo': SES.get_yahoo,
-                  #'Yandex US': SES.get_yandex_us, RANDOM JSON FORMAT SOMETIMES
-                  'Ask': SES.get_ask,
-                  'DuckDuckGo': SES.get_duckduckgo,
-                  'Ecosia': SES.get_ecosia,
-                  'Brave': SES.get_brave
-                  }
-
-    input_kws = [kw.strip('\n').strip() for kw in seed_kws.readlines() if kw not in ('', ' ', '\n', None)]
-
+    try:
+        kw_getters = {'Google': SES.get_google,
+                      'Bing': SES.get_bing,
+                      'Yahoo': SES.get_yahoo,
+                      #'Yandex US': SES.get_yandex_us, RANDOM JSON FORMAT SOMETIMES
+                      'Ask': SES.get_ask,
+                      'DuckDuckGo': SES.get_duckduckgo,
+                      'Ecosia': SES.get_ecosia,
+                      'Brave': SES.get_brave
+                      }
+    
+        input_kws = [kw.strip('\n').strip() for kw in seed_kws.readlines() if kw not in ('', ' ', '\n', None)]
+    except Exception:
+        print(Exception)
+        pass
+    
     if len(input_kws) == 0:
         print(f'Please insert at least one keyword in {config.input_file} to start, and try again.')
         input('Press any key to exit')
