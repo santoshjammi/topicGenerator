@@ -28,5 +28,11 @@ jobs:
         python -m pip install --upgrade pip
         python -m pip install -r ./requirements.txt
         sh -x runIt.sh
+
+    - name: Uploading dist
+        uses: actions/upload-artifact@v2
+        with:
+          name: artefact
+          path: ./output-keywords.txt
         
         
