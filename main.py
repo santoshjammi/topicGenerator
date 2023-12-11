@@ -78,7 +78,3 @@ else:
         print(f'File {config.output_file} has been created, '
               f'{len(out_f.readlines())} unique keywords found.')
 
-inputTextFile = open(config.output_file, 'r')
-Lines = inputTextFile.readlines()
-for line in Lines:
-    print(line)
