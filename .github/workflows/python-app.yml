@@ -34,5 +34,4 @@ jobs:
       with:
         name: artefact
         path: ./output-keywords.txt
-      
-        
+        retention-days: 30
