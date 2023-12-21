@@ -1,0 +1,8 @@
+flora
+flower
+fauna
+plant
+fruit
+sun
+moon
+seed
