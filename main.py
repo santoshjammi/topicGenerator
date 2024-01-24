@@ -72,7 +72,7 @@ else:
                     kws += kw_ses
                 except Exception:
                     pass
-                print(f'{len(kw_ses)} keywords found in this step.\n')
+#                print(f'{len(kw_ses)} keywords found in this step.\n')
         FW.write_txt(kws)
     with open(config.output_file, encoding='utf-8') as out_f:
         print(f'File {config.output_file} has been created, '
