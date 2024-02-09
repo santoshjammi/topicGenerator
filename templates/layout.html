@@ -1,0 +1,17 @@
+<!-- templates/home.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    {% if title %}
+    <title>{{ title }} - Topic Generator</title>
+    {% else %}
+    <title>H O M E - Topic Generator</title>
+    {% endif %}
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body>
+    <div id="content">{% block content %}{% endblock %}</div>
+</body>
+</html>

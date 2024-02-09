@@ -1,0 +1,81 @@
+Sun Feb  4 14:31:42 2024:
+Error: HTTPSConnectionPool(host='www.google.com', port=443): Read timed out. (read timeout=30)
+
+Wed Feb  7 11:28:10 2024:
+Error: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /complete/search?q=pv+narasimha+rao+a&client=firefox (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x103238090>: Failed to resolve 'www.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+
+Wed Feb  7 11:28:10 2024:
+Error: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /complete/search?q=pv+narasimha+rao+b&client=firefox (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x103259f10>: Failed to resolve 'www.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+
+Wed Feb  7 11:28:10 2024:
+Error: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /complete/search?q=pv+narasimha+rao+c&client=firefox (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10323b990>: Failed to resolve 'www.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+
+Wed Feb  7 11:28:10 2024:
+Error: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /complete/search?q=pv+narasimha+rao+d&client=firefox (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x103259250>: Failed to resolve 'www.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+
+Wed Feb  7 11:28:10 2024:
+Error: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /complete/search?q=pv+narasimha+rao+e&client=firefox (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10325b990>: Failed to resolve 'www.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+
+Wed Feb  7 11:28:10 2024:
+Error: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /complete/search?q=pv+narasimha+rao+f&client=firefox (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1032c5ad0>: Failed to resolve 'www.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+
+Wed Feb  7 11:28:10 2024:
+Error: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /complete/search?q=pv+narasimha+rao+g&client=firefox (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1032c7ad0>: Failed to resolve 'www.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+
+Wed Feb  7 11:28:10 2024:
+Error: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /complete/search?q=pv+narasimha+rao+h&client=firefox (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1032a1b50>: Failed to resolve 'www.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+
+Wed Feb  7 11:28:10 2024:
+Error: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /complete/search?q=pv+narasimha+rao+i&client=firefox (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1032c6190>: Failed to resolve 'www.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+
+Wed Feb  7 11:28:10 2024:
+Error: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /complete/search?q=pv+narasimha+rao+j&client=firefox (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1032c5850>: Failed to resolve 'www.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+
+Wed Feb  7 11:28:10 2024:
+Error: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /complete/search?q=pv+narasimha+rao+k&client=firefox (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x103258ad0>: Failed to resolve 'www.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+
+Wed Feb  7 11:28:10 2024:
+Error: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /complete/search?q=pv+narasimha+rao+l&client=firefox (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x103258990>: Failed to resolve 'www.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+
+Wed Feb  7 11:28:10 2024:
+Error: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /complete/search?q=pv+narasimha+rao+m&client=firefox (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1032a24d0>: Failed to resolve 'www.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+
+Wed Feb  7 11:28:10 2024:
+Error: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /complete/search?q=pv+narasimha+rao+n&client=firefox (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1032b4550>: Failed to resolve 'www.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+
+Wed Feb  7 11:28:10 2024:
+Error: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /complete/search?q=pv+narasimha+rao+o&client=firefox (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x103258dd0>: Failed to resolve 'www.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+
+Wed Feb  7 11:28:10 2024:
+Error: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /complete/search?q=pv+narasimha+rao+p&client=firefox (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10325b550>: Failed to resolve 'www.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+
+Wed Feb  7 11:28:10 2024:
+Error: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /complete/search?q=pv+narasimha+rao+q&client=firefox (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10323b710>: Failed to resolve 'www.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+
+Wed Feb  7 11:28:10 2024:
+Error: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /complete/search?q=pv+narasimha+rao+r&client=firefox (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1032c4890>: Failed to resolve 'www.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+
+Wed Feb  7 11:28:10 2024:
+Error: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /complete/search?q=pv+narasimha+rao+s&client=firefox (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1032b4f10>: Failed to resolve 'www.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+
+Wed Feb  7 11:28:10 2024:
+Error: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /complete/search?q=pv+narasimha+rao+t&client=firefox (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1032b6f10>: Failed to resolve 'www.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+
+Wed Feb  7 11:28:10 2024:
+Error: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /complete/search?q=pv+narasimha+rao+u&client=firefox (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1032c66d0>: Failed to resolve 'www.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+
+Wed Feb  7 11:28:10 2024:
+Error: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /complete/search?q=pv+narasimha+rao+v&client=firefox (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1032c7910>: Failed to resolve 'www.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+
+Wed Feb  7 11:28:10 2024:
+Error: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /complete/search?q=pv+narasimha+rao+w&client=firefox (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10325b790>: Failed to resolve 'www.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+
+Wed Feb  7 11:28:10 2024:
+Error: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /complete/search?q=pv+narasimha+rao+x&client=firefox (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1032a26d0>: Failed to resolve 'www.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+
+Wed Feb  7 11:28:10 2024:
+Error: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /complete/search?q=pv+narasimha+rao+y&client=firefox (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1032b7810>: Failed to resolve 'www.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+
+Wed Feb  7 11:28:10 2024:
+Error: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /complete/search?q=pv+narasimha+rao+z&client=firefox (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1032c1890>: Failed to resolve 'www.google.com' ([Errno 8] nodename nor servname provided, or not known)"))
+
