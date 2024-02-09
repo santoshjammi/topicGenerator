@@ -37,14 +37,16 @@ def getKeywords(input):
         input('Press any key to exit')
         sys.exit()
     else:
-        kw_getters = {'Google': SES.get_google,
-                    'Bing': SES.get_bing,
-                    'Yahoo': SES.get_yahoo,
-                    #'Yandex US': SES.get_yandex_us, RANDOM JSON FORMAT SOMETIMES
-                    'Ask': SES.get_ask,
-                    'DuckDuckGo': SES.get_duckduckgo,
-                    'Ecosia': SES.get_ecosia,
-                    'Brave': SES.get_brave
+        # kw_getters = {'Google': SES.get_google,
+        #             'Bing': SES.get_bing,
+        #             'Yahoo': SES.get_yahoo,
+        #             #'Yandex US': SES.get_yandex_us, RANDOM JSON FORMAT SOMETIMES
+        #             'Ask': SES.get_ask,
+        #             'DuckDuckGo': SES.get_duckduckgo,
+        #             'Ecosia': SES.get_ecosia,
+        #             'Brave': SES.get_brave
+        #             }
+        kw_getters = {'Google': SES.get_google
                     }
 
         input_kws = [kw.strip('\n').strip() for kw in seed_kws.split(',') if kw not in ('', ' ', '\n', None)]
@@ -63,52 +65,52 @@ def getKeywords(input):
             for letter in ascii_lowercase:
                 new_kw = f'{kw} {letter}'
                 for se, getter in kw_getters.items():
-                    print(f'Exploring for {new_kw} in {se}')
+                    # print(f'Exploring for {new_kw} in {se}')
                     kw_ses = SES.kw_results(getter, new_kw)
-                    print(f'{len(kw_ses)} keywords found in this step.\n')
+                    # print(f'{len(kw_ses)} keywords found in this step.\n')
                     kws += kw_ses
                 new_kw = f'{letter} {kw}'
-                for se, getter in kw_getters.items():
-                    print(f'Exploring for {new_kw} in {se}')
-                    kw_ses = SES.kw_results(getter, new_kw)
-                    print(f'{len(kw_ses)} keywords found in this step.\n')
-                    kws += kw_ses
-                new_kw = f'"what" {letter} {kw}'
-                for se, getter in kw_getters.items():
-                    print(f'Exploring for {new_kw} in {se}')
-                    kw_ses = SES.kw_results(getter, new_kw)
-                    print(f'{len(kw_ses)} keywords found in this step.\n')
-                    kws += kw_ses
-                new_kw = f'"when" {letter} {kw}'
-                for se, getter in kw_getters.items():
-                    print(f'Exploring for {new_kw} in {se}')
-                    kw_ses = SES.kw_results(getter, new_kw)
-                    print(f'{len(kw_ses)} keywords found in this step.\n')
-                    kws += kw_ses
-                new_kw = f'"where" {letter} {kw}'
-                for se, getter in kw_getters.items():
-                    print(f'Exploring for {new_kw} in {se}')
-                    kw_ses = SES.kw_results(getter, new_kw)
-                    print(f'{len(kw_ses)} keywords found in this step.\n')
-                    kws += kw_ses
-                new_kw = f'"who" {letter} {kw}'
-                for se, getter in kw_getters.items():
-                    print(f'Exploring for {new_kw} in {se}')
-                    kw_ses = SES.kw_results(getter, new_kw)
-                    print(f'{len(kw_ses)} keywords found in this step.\n')
-                    kws += kw_ses
-                new_kw = f'"why" {letter} {kw}'
-                for se, getter in kw_getters.items():
-                    print(f'Exploring for {new_kw} in {se}')
-                    kw_ses = SES.kw_results(getter, new_kw)
-                    print(f'{len(kw_ses)} keywords found in this step.\n')
-                    kws += kw_ses
-                new_kw = f'"how" {letter} {kw}'
-                for se, getter in kw_getters.items():
-                    print(f'Exploring for {new_kw} in {se}')
-                    kw_ses = SES.kw_results(getter, new_kw)
-                    print(f'{len(kw_ses)} keywords found in this step.\n')
-                    kws += kw_ses
+                # for se, getter in kw_getters.items():
+                #     print(f'Exploring for {new_kw} in {se}')
+                #     kw_ses = SES.kw_results(getter, new_kw)
+                #     print(f'{len(kw_ses)} keywords found in this step.\n')
+                #     kws += kw_ses
+                # new_kw = f'"what" {letter} {kw}'
+                # for se, getter in kw_getters.items():
+                #     print(f'Exploring for {new_kw} in {se}')
+                #     kw_ses = SES.kw_results(getter, new_kw)
+                #     print(f'{len(kw_ses)} keywords found in this step.\n')
+                #     kws += kw_ses
+                # new_kw = f'"when" {letter} {kw}'
+                # for se, getter in kw_getters.items():
+                #     print(f'Exploring for {new_kw} in {se}')
+                #     kw_ses = SES.kw_results(getter, new_kw)
+                #     print(f'{len(kw_ses)} keywords found in this step.\n')
+                #     kws += kw_ses
+                # new_kw = f'"where" {letter} {kw}'
+                # for se, getter in kw_getters.items():
+                #     print(f'Exploring for {new_kw} in {se}')
+                #     kw_ses = SES.kw_results(getter, new_kw)
+                #     print(f'{len(kw_ses)} keywords found in this step.\n')
+                #     kws += kw_ses
+                # new_kw = f'"who" {letter} {kw}'
+                # for se, getter in kw_getters.items():
+                #     print(f'Exploring for {new_kw} in {se}')
+                #     kw_ses = SES.kw_results(getter, new_kw)
+                #     print(f'{len(kw_ses)} keywords found in this step.\n')
+                #     kws += kw_ses
+                # new_kw = f'"why" {letter} {kw}'
+                # for se, getter in kw_getters.items():
+                #     print(f'Exploring for {new_kw} in {se}')
+                #     kw_ses = SES.kw_results(getter, new_kw)
+                #     print(f'{len(kw_ses)} keywords found in this step.\n')
+                #     kws += kw_ses
+                # new_kw = f'"how" {letter} {kw}'
+                # for se, getter in kw_getters.items():
+                #     print(f'Exploring for {new_kw} in {se}')
+                #     kw_ses = SES.kw_results(getter, new_kw)
+                #     print(f'{len(kw_ses)} keywords found in this step.\n')
+                #     kws += kw_ses
 
             for el in kws: list_final.add(el)
             # FW.write_txt(kws)
@@ -121,4 +123,5 @@ def getKeywords(input):
     # for line in Lines:
     #     print(line)
     print(list_final)
-getKeywords(sys.argv[1])
+    return list(list_final)
+# getKeywords(sys.argv[1])
