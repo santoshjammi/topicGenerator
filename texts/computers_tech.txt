@@ -25,3 +25,6 @@ MySQL
 J2SE
 J2EE
 CCNA
+BigQuery
+AI
+CyberSecurity
