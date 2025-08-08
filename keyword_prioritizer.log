@@ -1,0 +1,51 @@
+2025-08-08 10:03:14,072 - INFO - Loaded 10377 keywords from filtered-output-keywords.txt
+2025-08-08 10:03:32,643 - INFO - Analysis cancelled.
+2025-08-08 10:03:44,439 - INFO - Loaded 10377 keywords from filtered-output-keywords.txt
+2025-08-08 10:03:44,440 - INFO - Starting keyword analysis...
+2025-08-08 10:03:44,499 - INFO - Processed 1000 keywords...
+2025-08-08 10:03:44,500 - INFO - Batch 1 completed in 0.06s (1000 keywords)
+2025-08-08 10:03:44,661 - INFO - Processed 2000 keywords...
+2025-08-08 10:03:44,662 - INFO - Batch 2 completed in 0.06s (1000 keywords)
+2025-08-08 10:03:44,818 - INFO - Processed 3000 keywords...
+2025-08-08 10:03:44,819 - INFO - Batch 3 completed in 0.06s (1000 keywords)
+2025-08-08 10:03:44,977 - INFO - Processed 4000 keywords...
+2025-08-08 10:03:44,977 - INFO - Batch 4 completed in 0.06s (1000 keywords)
+2025-08-08 10:03:45,136 - INFO - Processed 5000 keywords...
+2025-08-08 10:03:45,136 - INFO - Batch 5 completed in 0.06s (1000 keywords)
+2025-08-08 10:03:45,292 - INFO - Processed 6000 keywords...
+2025-08-08 10:03:45,293 - INFO - Batch 6 completed in 0.06s (1000 keywords)
+2025-08-08 10:03:45,452 - INFO - Processed 7000 keywords...
+2025-08-08 10:03:45,452 - INFO - Batch 7 completed in 0.06s (1000 keywords)
+2025-08-08 10:03:45,608 - INFO - Processed 8000 keywords...
+2025-08-08 10:03:45,609 - INFO - Batch 8 completed in 0.05s (1000 keywords)
+2025-08-08 10:03:45,764 - INFO - Processed 9000 keywords...
+2025-08-08 10:03:45,765 - INFO - Batch 9 completed in 0.05s (1000 keywords)
+2025-08-08 10:03:45,922 - INFO - Processed 10000 keywords...
+2025-08-08 10:03:45,923 - INFO - Batch 10 completed in 0.06s (1000 keywords)
+2025-08-08 10:03:46,048 - INFO - Batch 11 completed in 0.02s (377 keywords)
+2025-08-08 10:03:46,048 - INFO - Categorizing keywords...
+2025-08-08 10:03:46,167 - INFO - Main results saved to: keyword_analysis_20250808_100346.csv
+2025-08-08 10:03:46,182 - INFO - high_priority keywords saved to: keyword_analysis_high_priority_20250808_100346.csv
+2025-08-08 10:03:46,198 - INFO - medium_priority keywords saved to: keyword_analysis_medium_priority_20250808_100346.csv
+2025-08-08 10:03:46,261 - INFO - low_priority keywords saved to: keyword_analysis_low_priority_20250808_100346.csv
+2025-08-08 10:03:46,264 - INFO - tutorial_content keywords saved to: keyword_analysis_tutorial_content_20250808_100346.csv
+2025-08-08 10:03:46,269 - INFO - reference_content keywords saved to: keyword_analysis_reference_content_20250808_100346.csv
+2025-08-08 10:03:46,272 - INFO - comparison_content keywords saved to: keyword_analysis_comparison_content_20250808_100346.csv
+2025-08-08 10:03:46,276 - INFO - career_content keywords saved to: keyword_analysis_career_content_20250808_100346.csv
+2025-08-08 10:03:46,278 - INFO - beginner_friendly keywords saved to: keyword_analysis_beginner_friendly_20250808_100346.csv
+2025-08-08 10:03:46,280 - INFO - problem_solving keywords saved to: keyword_analysis_problem_solving_20250808_100346.csv
+2025-08-08 10:03:46,281 - INFO - Content strategy report saved to: keyword_analysis_strategy_20250808_100346.txt
+2025-08-08 10:03:46,281 - INFO - 
+============================================================
+2025-08-08 10:03:46,281 - INFO - KEYWORD ANALYSIS COMPLETE!
+2025-08-08 10:03:46,281 - INFO - ============================================================
+2025-08-08 10:03:46,281 - INFO - Processing time: 1.84 seconds
+2025-08-08 10:03:46,282 - INFO - Keywords analyzed: 10377
+2025-08-08 10:03:46,282 - INFO - Processing rate: 5635 keywords/second
+2025-08-08 10:03:46,282 - INFO - 
+CONTENT STRATEGY SUMMARY:
+2025-08-08 10:03:46,282 - INFO - High priority keywords: 1530
+2025-08-08 10:03:46,282 - INFO - Medium priority keywords: 1715
+2025-08-08 10:03:46,282 - INFO - Tutorial opportunities: 107
+2025-08-08 10:03:46,282 - INFO - Comparison content opportunities: 129
+2025-08-08 10:03:46,282 - INFO - Beginner-friendly content: 32

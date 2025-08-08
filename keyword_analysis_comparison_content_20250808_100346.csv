@@ -1,0 +1,130 @@
+keyword,priority_score,content_type,difficulty,search_intent,word_count,estimated_competition,content_potential,processed_date
+freebsd jail vs docker,100.0,comparison,medium,high_intent,4,medium,excellent,2025-08-08 10:03:45
+freebsd xen vs bhyve,97.57596247474616,comparison,medium,high_intent,4,medium,excellent,2025-08-08 10:03:45
+freebsd vs openbsd,95.36951471588387,comparison,medium,high_intent,3,medium,excellent,2025-08-08 10:03:45
+freebsd vs linux,95.2583142798163,comparison,medium,high_intent,3,medium,excellent,2025-08-08 10:03:45
+solaris gtr vst free,94.5646735805572,comparison,medium,high_intent,4,medium,excellent,2025-08-08 10:03:45
+freebsd zfs vs ufs,93.46350321040771,comparison,medium,high_intent,4,medium,excellent,2025-08-08 10:03:45
+freebsd vs debian,92.38807436491129,comparison,medium,high_intent,3,medium,excellent,2025-08-08 10:03:45
+freebsd vs windows,91.23415218625425,comparison,medium,high_intent,3,medium,excellent,2025-08-08 10:03:45
+freebsd vscode,90.42066964126887,comparison,medium,high_intent,2,medium,excellent,2025-08-08 10:03:45
+freebsd vs ghostbsd,89.96345892417158,comparison,medium,high_intent,3,medium,excellent,2025-08-08 10:03:45
+freebsd vs arch,89.51936836153335,comparison,medium,high_intent,3,medium,excellent,2025-08-08 10:03:45
+as400 vs mainframe,86.74045787063109,comparison,medium,informational,3,medium,excellent,2025-08-08 10:03:45
+netbsd vs freebsd,86.37681067215476,comparison,medium,high_intent,3,medium,excellent,2025-08-08 10:03:46
+freebsd vs netbsd,86.18669015640121,comparison,medium,high_intent,3,medium,excellent,2025-08-08 10:03:45
+aix vs linux,85.95044877535227,comparison,medium,informational,3,medium,excellent,2025-08-08 10:03:45
+freebsd xorg vs wayland,85.48423572597427,comparison,medium,high_intent,4,medium,excellent,2025-08-08 10:03:45
+freebsd vs ubuntu,85.13926026740546,comparison,medium,high_intent,3,medium,excellent,2025-08-08 10:03:45
+freebsd vs unix,85.12783138724187,comparison,medium,high_intent,3,medium,excellent,2025-08-08 10:03:45
+freebsd vs solaris,85.1163169099797,comparison,medium,high_intent,3,medium,excellent,2025-08-08 10:03:45
+openbsd vs freebsd,84.92136411671811,comparison,medium,high_intent,3,medium,excellent,2025-08-08 10:03:45
+freebsd quarterly vs latest,84.45769683221215,comparison,medium,high_intent,4,medium,excellent,2025-08-08 10:03:45
+aix vs air india,83.68893784207981,comparison,medium,informational,4,medium,excellent,2025-08-08 10:03:45
+hp ux vs aix,81.80480729893215,comparison,medium,informational,4,medium,excellent,2025-08-08 10:03:45
+aix vs indigo,81.1335252628267,comparison,medium,informational,3,medium,excellent,2025-08-08 10:03:45
+aix vs unix,80.83181793900738,comparison,medium,informational,3,medium,excellent,2025-08-08 10:03:45
+as400 vs aix,79.86710164881637,comparison,medium,informational,3,medium,excellent,2025-08-08 10:03:45
+operating systems compared,78.635066958534,comparison,expert,informational,3,medium,excellent,2025-08-08 10:03:45
+hp ux vs aix,78.07302932297232,comparison,medium,informational,4,medium,excellent,2025-08-08 10:03:46
+operating systems differences,77.45514928523154,comparison,expert,informational,3,medium,excellent,2025-08-08 10:03:45
+freebsd kernel vs linux kernel,76.66218956997885,comparison,expert,high_intent,5,medium,excellent,2025-08-08 10:03:45
+operating systems vs software,74.76490002754585,comparison,expert,informational,4,medium,excellent,2025-08-08 10:03:45
+solaris gtr vst free download,74.41013205393082,comparison,medium,high_intent,5,medium,excellent,2025-08-08 10:03:45
+freebsd vs openbsd vs netbsd,74.01587065015634,comparison,medium,high_intent,5,medium,excellent,2025-08-08 10:03:45
+linux x64 vs arm64,71.86657927645875,comparison,medium,informational,4,medium,excellent,2025-08-08 10:03:44
+openbsd vs freebsd vs netbsd,71.68737023057996,comparison,medium,high_intent,5,medium,excellent,2025-08-08 10:03:45
+freebsd vs netbsd vs openbsd vs dragonflybsd,71.35882495842277,comparison,medium,high_intent,7,medium,excellent,2025-08-08 10:03:45
+solaris tarkovski,71.35476214617051,comparison,medium,informational,2,medium,excellent,2025-08-08 10:03:45
+as400 vs db2,71.18759769022903,comparison,medium,informational,3,medium,excellent,2025-08-08 10:03:45
+android vs apple,71.10045613100787,comparison,medium,informational,3,medium,excellent,2025-08-08 10:03:44
+macos x64 vs aarch64,71.01819194500132,comparison,medium,informational,4,medium,excellent,2025-08-08 10:03:44
+hp-ux vs linux,70.91908283262023,comparison,medium,informational,3,medium,excellent,2025-08-08 10:03:46
+as400 vs z/os,70.86383670135655,comparison,medium,informational,3,medium,excellent,2025-08-08 10:03:45
+netbsd vscode,70.59373350547855,comparison,medium,informational,2,medium,excellent,2025-08-08 10:03:46
+as400 vs zos,70.09096722680583,comparison,medium,informational,3,medium,excellent,2025-08-08 10:03:45
+solaris tarkovskij,70.05565973621842,comparison,medium,informational,2,medium,excellent,2025-08-08 10:03:45
+linux vs unix,69.92598012582914,comparison,medium,informational,3,medium,good,2025-08-08 10:03:44
+netbsd vs freebsd vs openbsd,69.62718690033981,comparison,medium,high_intent,5,medium,good,2025-08-08 10:03:46
+openbsd cvsweb,69.55610472905124,comparison,medium,informational,2,medium,good,2025-08-08 10:03:45
+macos x86_64 vs aarch64,69.54111470212361,comparison,medium,informational,4,medium,good,2025-08-08 10:03:44
+openbsd performance vs linux,69.53795113002504,comparison,medium,informational,4,medium,good,2025-08-08 10:03:45
+windows home vs pro,69.06296409337234,comparison,medium,informational,4,medium,good,2025-08-08 10:03:44
+hp-ux vsp,68.51727531837257,comparison,medium,informational,2,medium,good,2025-08-08 10:03:46
+solaris vs linux,68.24189059602978,comparison,medium,informational,3,medium,good,2025-08-08 10:03:45
+windows x86 vs arm,68.16858310225078,comparison,medium,informational,4,medium,good,2025-08-08 10:03:44
+android vs iphone,68.03725546681427,comparison,medium,informational,3,medium,good,2025-08-08 10:03:44
+linux mint vs ubuntu,67.7907154403321,comparison,medium,informational,4,medium,good,2025-08-08 10:03:44
+netbsd cvs,67.77423277877183,comparison,medium,informational,2,medium,good,2025-08-08 10:03:45
+netbsd vs linux,67.75935613923139,comparison,medium,informational,3,medium,good,2025-08-08 10:03:46
+as400 vscode,67.5947225874274,comparison,medium,informational,2,medium,good,2025-08-08 10:03:45
+openbsd vs freebsd vs linux,67.57683953796048,comparison,medium,high_intent,5,medium,good,2025-08-08 10:03:45
+solaris (andrei tarkovsky 1972),67.28879032547674,comparison,medium,informational,4,medium,good,2025-08-08 10:03:45
+ios vs android comparison,67.03196797466542,comparison,medium,informational,4,high,good,2025-08-08 10:03:45
+openbsd vs netbsd,66.82911041624577,comparison,medium,informational,3,medium,good,2025-08-08 10:03:45
+hpux vsp,66.3259193970689,comparison,medium,informational,2,medium,good,2025-08-08 10:03:45
+solaris guitar vst,64.93423244563749,comparison,medium,informational,3,medium,good,2025-08-08 10:03:45
+ios vs android,64.77244381665953,comparison,medium,informational,3,medium,good,2025-08-08 10:03:45
+windows vs mac,64.74620745769855,comparison,medium,informational,3,medium,good,2025-08-08 10:03:44
+as400 file compare,64.59521688508818,comparison,medium,informational,3,medium,good,2025-08-08 10:03:45
+hp ux vs linux,64.57188990023174,comparison,medium,informational,4,medium,good,2025-08-08 10:03:46
+macos nfs vs smb,64.31114835755639,comparison,medium,informational,4,medium,good,2025-08-08 10:03:44
+android vs cyborg,64.00158078495555,comparison,medium,informational,3,medium,good,2025-08-08 10:03:44
+netbsd vs debian,63.88372441317124,comparison,medium,informational,3,medium,good,2025-08-08 10:03:46
+android vs cyborg dti,63.71341993716133,comparison,medium,informational,4,medium,good,2025-08-08 10:03:44
+linux and unix difference,63.352763855646934,comparison,medium,informational,4,medium,good,2025-08-08 10:03:44
+macos x64 vs arm64,63.12203826179045,comparison,medium,informational,4,medium,good,2025-08-08 10:03:44
+linux vs windows,63.063509534184504,comparison,medium,informational,3,medium,good,2025-08-08 10:03:44
+solaris andrei tarkovsky,63.05269859716311,comparison,medium,informational,3,medium,good,2025-08-08 10:03:45
+linux zorin vs mint,62.86980603373418,comparison,medium,informational,4,medium,good,2025-08-08 10:03:44
+ios vs mac os,62.765511002396615,comparison,medium,informational,4,medium,good,2025-08-08 10:03:45
+macos and ios difference,62.75301560245197,comparison,medium,informational,4,medium,good,2025-08-08 10:03:44
+osx vs macos,62.15514343879955,comparison,medium,informational,3,medium,good,2025-08-08 10:03:45
+as400 vs sap,62.14943864998787,comparison,medium,informational,3,medium,good,2025-08-08 10:03:45
+openbsd vscode,61.82386688621513,comparison,medium,informational,2,medium,good,2025-08-08 10:03:45
+as400 vs os400,61.80823994079316,comparison,medium,informational,3,medium,good,2025-08-08 10:03:45
+macos vs windows,61.611205841602875,comparison,medium,informational,3,medium,good,2025-08-08 10:03:44
+solaris gtr vst,61.412407913448824,comparison,medium,informational,3,medium,good,2025-08-08 10:03:45
+android vs ios,61.37032775540313,comparison,medium,informational,3,medium,good,2025-08-08 10:03:44
+solaris vs good year,61.222059118600555,comparison,medium,informational,4,medium,good,2025-08-08 10:03:45
+osx file compare,61.11953651527119,comparison,medium,informational,3,medium,good,2025-08-08 10:03:45
+solaris tarkovsky,61.08311283252243,comparison,medium,informational,2,medium,good,2025-08-08 10:03:45
+windows vs linux,60.59544781952484,comparison,medium,informational,3,medium,good,2025-08-08 10:03:44
+as400 vs as400,60.29256777072015,comparison,medium,informational,3,medium,good,2025-08-08 10:03:45
+hp-ux vs linux,60.202481843390984,comparison,medium,informational,3,medium,good,2025-08-08 10:03:45
+solaris movie tarkovsky,60.10898542730196,comparison,medium,informational,3,medium,good,2025-08-08 10:03:45
+openbsd vs linux,60.103108730890945,comparison,medium,informational,3,medium,good,2025-08-08 10:03:45
+as400 vs cobol,60.005045832800185,comparison,medium,informational,3,medium,good,2025-08-08 10:03:45
+linux vs ubuntu,59.99110248651273,comparison,medium,informational,3,medium,good,2025-08-08 10:03:44
+solaris vst,59.87788070479744,comparison,medium,informational,2,medium,good,2025-08-08 10:03:45
+openbsd cvs,59.52640862896814,comparison,medium,informational,2,medium,good,2025-08-08 10:03:45
+hpux vs linux,59.359939259622195,comparison,medium,informational,3,medium,good,2025-08-08 10:03:45
+android vs. iphone,59.15868617154983,comparison,medium,informational,3,medium,good,2025-08-08 10:03:44
+solaris vs 2001,59.13781862930761,comparison,medium,informational,3,medium,good,2025-08-08 10:03:45
+as400 vs iseries,58.975171651332204,comparison,medium,informational,3,medium,good,2025-08-08 10:03:45
+ios vs windows,58.91727706320796,comparison,medium,informational,3,medium,good,2025-08-08 10:03:45
+netbsd vs openbsd,58.82184014682138,comparison,medium,informational,3,medium,good,2025-08-08 10:03:46
+as400 vs erp,58.157914600131086,comparison,medium,informational,3,medium,good,2025-08-08 10:03:45
+operating systems vs computer architecture,58.064869730090386,comparison,expert,informational,5,medium,good,2025-08-08 10:03:45
+operating systems vs embedded systems,57.99620947401912,comparison,expert,informational,5,medium,good,2025-08-08 10:03:45
+as400 vs as/400,57.98948221961269,comparison,medium,informational,3,medium,good,2025-08-08 10:03:45
+hpux vs,57.987977733016244,comparison,medium,informational,2,medium,good,2025-08-08 10:03:45
+linux unix difference,57.85639706457541,comparison,medium,informational,3,medium,good,2025-08-08 10:03:44
+openbsd vs linux security,57.81052086788792,comparison,medium,informational,4,medium,good,2025-08-08 10:03:45
+osx vs arm64,57.4976262109752,comparison,medium,informational,3,medium,good,2025-08-08 10:03:45
+operating systems vs operating platforms,55.84856317488965,comparison,expert,informational,5,medium,good,2025-08-08 10:03:45
+operating systems vs application software,55.04951159104648,comparison,expert,informational,5,medium,good,2025-08-08 10:03:45
+operating systems for smart tvs,54.28059384422716,comparison,expert,informational,5,medium,good,2025-08-08 10:03:45
+osx.vsearch,51.89725330956309,comparison,medium,informational,1,medium,good,2025-08-08 10:03:45
+solaris elite vs 10k gold,51.703393075754164,comparison,medium,informational,5,medium,good,2025-08-08 10:03:45
+android vs iphone comparison chart,51.443562117793554,comparison,medium,informational,5,high,good,2025-08-08 10:03:44
+android vs iphone pros and cons,50.988130479218455,comparison,medium,informational,6,medium,good,2025-08-08 10:03:44
+ios vs android market share by country,49.94930966594241,comparison,medium,informational,7,medium,fair,2025-08-08 10:03:45
+android build variants vs flavors,49.60640721622801,comparison,medium,informational,5,medium,fair,2025-08-08 10:03:44
+osx vscode change indent type shortcut,48.12626420262471,comparison,medium,informational,6,medium,fair,2025-08-08 10:03:45
+macos extended journaled vs apfs,47.588311438444826,comparison,medium,informational,5,medium,fair,2025-08-08 10:03:44
+ios xe vs ios xr,46.003792111559704,comparison,medium,informational,5,medium,fair,2025-08-08 10:03:45
+as400 i series vs as400,44.21447998944089,comparison,medium,informational,5,medium,fair,2025-08-08 10:03:45
+windows quick format vs regular,43.89844765248094,comparison,medium,informational,5,medium,fair,2025-08-08 10:03:44
+ios vs android which is better,38.604871185403724,comparison,medium,informational,6,medium,fair,2025-08-08 10:03:45
+android vs cyborg dress to impress,38.464582943966505,comparison,medium,informational,6,medium,fair,2025-08-08 10:03:44

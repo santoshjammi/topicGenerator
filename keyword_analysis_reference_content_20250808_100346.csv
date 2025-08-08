@@ -1,0 +1,227 @@
+keyword,priority_score,content_type,difficulty,search_intent,word_count,estimated_competition,content_potential,processed_date
+as400 basic commands,100.0,reference,beginner,high_intent,3,low,excellent,2025-08-08 10:03:45
+aix commands list,96.80219812867173,reference,medium,high_intent,3,low,excellent,2025-08-08 10:03:45
+linux commands for beginners,94.5662720452242,reference,beginner,high_intent,4,low,excellent,2025-08-08 10:03:44
+aix powermt commands,93.51934383773767,reference,medium,high_intent,3,low,excellent,2025-08-08 10:03:45
+linux basic commands,93.02466118181037,reference,beginner,high_intent,3,low,excellent,2025-08-08 10:03:44
+aix commands,92.07887699868499,reference,medium,high_intent,2,low,excellent,2025-08-08 10:03:45
+aix network commands,90.38941829120705,reference,medium,high_intent,3,low,excellent,2025-08-08 10:03:45
+freebsd commands cheat sheet,90.24416408987918,reference,medium,high_intent,4,low,excellent,2025-08-08 10:03:45
+freebsd watch command,90.05699019707004,reference,medium,high_intent,3,low,excellent,2025-08-08 10:03:45
+windows terminal download,87.39494108372772,reference,medium,high_intent,3,medium,excellent,2025-08-08 10:03:44
+aix kdb commands,87.24035105649315,reference,medium,high_intent,3,low,excellent,2025-08-08 10:03:45
+aix vi editor commands,87.02821517909577,reference,medium,high_intent,4,low,excellent,2025-08-08 10:03:45
+aix os commands,86.6409213475239,reference,medium,high_intent,3,low,excellent,2025-08-08 10:03:45
+linux terminal download,85.78197602078981,reference,medium,high_intent,3,medium,excellent,2025-08-08 10:03:44
+freebsd commands,85.4540604866776,reference,medium,high_intent,2,low,excellent,2025-08-08 10:03:45
+aix find command example,85.14564022891287,reference,medium,high_intent,4,low,excellent,2025-08-08 10:03:45
+aix useradd command,82.38133785546155,reference,medium,informational,3,low,excellent,2025-08-08 10:03:45
+freebsd lrz command,82.322836120707,reference,medium,high_intent,3,low,excellent,2025-08-08 10:03:45
+freebsd service command,81.94971246660397,reference,medium,high_intent,3,low,excellent,2025-08-08 10:03:45
+aix shutdown command,81.38249930004267,reference,medium,informational,3,low,excellent,2025-08-08 10:03:45
+aix mount command,80.92391482286142,reference,medium,informational,3,low,excellent,2025-08-08 10:03:45
+aix kill command,80.50603081692863,reference,medium,informational,3,low,excellent,2025-08-08 10:03:45
+linux vi commands,79.40634980061259,reference,medium,high_intent,3,low,excellent,2025-08-08 10:03:44
+aix wc command,79.26847219096453,reference,medium,informational,3,low,excellent,2025-08-08 10:03:45
+aix unzip command,79.18858657685358,reference,medium,informational,3,low,excellent,2025-08-08 10:03:45
+freebsd command line,79.1761767603482,reference,medium,high_intent,3,low,excellent,2025-08-08 10:03:45
+windows command prompt commands,79.16412882783871,reference,medium,high_intent,4,low,excellent,2025-08-08 10:03:44
+aix version command,79.08919792147631,reference,medium,informational,3,low,excellent,2025-08-08 10:03:45
+windows quick key commands,79.00962134260105,reference,medium,high_intent,4,low,excellent,2025-08-08 10:03:44
+hp-ux commands,78.75233618716473,reference,medium,high_intent,2,low,excellent,2025-08-08 10:03:45
+macos terminal commands,78.73270529219803,reference,medium,high_intent,3,low,excellent,2025-08-08 10:03:44
+freebsd route command,78.71619982678975,reference,medium,high_intent,3,low,excellent,2025-08-08 10:03:45
+aix os version command,78.68514691661528,reference,medium,informational,4,low,excellent,2025-08-08 10:03:45
+linux commands pdf,78.42936564807806,reference,medium,high_intent,3,low,excellent,2025-08-08 10:03:44
+linux operating system commands,78.33287954466128,reference,expert,high_intent,4,low,excellent,2025-08-08 10:03:44
+aix tls command,78.27834385236638,reference,medium,informational,3,low,excellent,2025-08-08 10:03:45
+aix disk space command,78.14390773714777,reference,medium,informational,4,low,excellent,2025-08-08 10:03:45
+freebsd shutdown command,78.074333833986,reference,medium,high_intent,3,low,excellent,2025-08-08 10:03:45
+windows repair command,78.05023750292622,reference,medium,informational,3,low,excellent,2025-08-08 10:03:44
+freebsd reboot command,78.00915627471021,reference,medium,high_intent,3,low,excellent,2025-08-08 10:03:45
+linux bash commands,77.96957331861198,reference,medium,high_intent,3,low,excellent,2025-08-08 10:03:44
+freebsd update command,77.82922542110707,reference,medium,high_intent,3,low,excellent,2025-08-08 10:03:45
+aix watch command,77.75068458686856,reference,medium,informational,3,low,excellent,2025-08-08 10:03:45
+hp-ux commands cheat sheet,77.47757798990956,reference,medium,high_intent,4,low,excellent,2025-08-08 10:03:46
+as400 commands,77.47275298623023,reference,medium,high_intent,2,low,excellent,2025-08-08 10:03:45
+as400 navigation commands,77.40243611233284,reference,medium,high_intent,3,low,excellent,2025-08-08 10:03:45
+freebsd top command,77.13443564981603,reference,medium,high_intent,3,high,excellent,2025-08-08 10:03:45
+freebsd terminal,77.09407912682727,reference,medium,high_intent,2,medium,excellent,2025-08-08 10:03:45
+aix nohup command,77.02779920955676,reference,medium,informational,3,low,excellent,2025-08-08 10:03:45
+aix command cheat sheet,76.9346749040572,reference,medium,informational,4,low,excellent,2025-08-08 10:03:45
+as400 commands cheat sheet,76.89829111656508,reference,medium,high_intent,4,low,excellent,2025-08-08 10:03:45
+aix df command,76.69000859514253,reference,medium,informational,3,low,excellent,2025-08-08 10:03:45
+linux networking commands,76.6198453189169,reference,medium,high_intent,3,low,excellent,2025-08-08 10:03:44
+hpux top command,76.56701606452548,reference,medium,high_intent,3,high,excellent,2025-08-08 10:03:45
+aix hostname command,76.40098334996105,reference,medium,informational,3,low,excellent,2025-08-08 10:03:45
+as400 ifs commands,76.0290420055249,reference,medium,high_intent,3,low,excellent,2025-08-08 10:03:45
+hpux efi shell commands,75.49590249575697,reference,medium,high_intent,4,low,excellent,2025-08-08 10:03:45
+aix grep command,75.40508272341299,reference,medium,informational,3,low,excellent,2025-08-08 10:03:45
+hp-ux performance monitoring commands,75.3166619557336,reference,medium,high_intent,4,low,excellent,2025-08-08 10:03:46
+linux unix commands,75.07200469186967,reference,medium,high_intent,3,low,excellent,2025-08-08 10:03:44
+aix netstat command,75.01599793435076,reference,medium,informational,3,low,excellent,2025-08-08 10:03:45
+aix du command,74.82090983351728,reference,medium,informational,3,low,excellent,2025-08-08 10:03:45
+linux networking commands pdf,74.81764459799206,reference,medium,high_intent,4,low,excellent,2025-08-08 10:03:44
+hp-ux performance monitoring commands,74.74259436638516,reference,medium,high_intent,4,low,excellent,2025-08-08 10:03:45
+as400 library list command,74.54601614169191,reference,medium,high_intent,4,low,excellent,2025-08-08 10:03:45
+macos commands,74.32841103731346,reference,medium,high_intent,2,low,excellent,2025-08-08 10:03:44
+linux commands w3schools,74.26565493004121,reference,medium,high_intent,3,low,excellent,2025-08-08 10:03:44
+linux tail command,74.2378550368974,reference,medium,informational,3,low,excellent,2025-08-08 10:03:44
+linux ubuntu commands,74.15571454880177,reference,medium,high_intent,3,low,excellent,2025-08-08 10:03:44
+hp-ux dd command example,73.77746077389932,reference,medium,high_intent,4,low,excellent,2025-08-08 10:03:45
+aix nfs mount command example,73.66493387105655,reference,medium,high_intent,5,low,excellent,2025-08-08 10:03:45
+openbsd commands,73.12287256133337,reference,medium,high_intent,2,low,excellent,2025-08-08 10:03:45
+as400 email command,72.90732165191518,reference,medium,informational,3,low,excellent,2025-08-08 10:03:45
+aix zip command,72.85136319891474,reference,medium,informational,3,low,excellent,2025-08-08 10:03:45
+aix reboot command,72.36697272685376,reference,medium,informational,3,low,excellent,2025-08-08 10:03:45
+osx terminal command list,72.33575747836734,reference,medium,high_intent,4,low,excellent,2025-08-08 10:03:45
+as400 qshell commands,72.33421791516942,reference,medium,high_intent,3,low,excellent,2025-08-08 10:03:45
+aix find command,72.04501172513396,reference,medium,informational,3,low,excellent,2025-08-08 10:03:45
+windows run commands,71.4160797630677,reference,medium,high_intent,3,low,excellent,2025-08-08 10:03:44
+windows keyboard commands,71.27660027391804,reference,medium,high_intent,3,low,excellent,2025-08-08 10:03:44
+windows powershell commands,70.93305164686389,reference,medium,high_intent,3,low,excellent,2025-08-08 10:03:44
+windows commands,70.85190045475298,reference,medium,high_intent,2,low,excellent,2025-08-08 10:03:44
+windows terminal commands,70.55015234946286,reference,medium,high_intent,3,low,excellent,2025-08-08 10:03:44
+linux commands cheat sheet,70.32837128992539,reference,medium,high_intent,4,low,excellent,2025-08-08 10:03:44
+as400 robot scheduler commands,69.74756844917616,reference,medium,high_intent,4,low,good,2025-08-08 10:03:45
+linux all commands,69.73309007466715,reference,medium,high_intent,3,low,good,2025-08-08 10:03:44
+linux commands list,69.54034973904423,reference,medium,high_intent,3,low,good,2025-08-08 10:03:44
+as400 create command example,68.97908588255395,reference,medium,high_intent,4,low,good,2025-08-08 10:03:45
+hpux commands,68.90928035580615,reference,medium,high_intent,2,low,good,2025-08-08 10:03:45
+windows r commands,68.54346763206439,reference,medium,high_intent,3,low,good,2025-08-08 10:03:44
+linux vim commands,68.53540987723258,reference,medium,high_intent,3,low,good,2025-08-08 10:03:44
+linux top command,68.47389110371537,reference,medium,high_intent,3,high,good,2025-08-08 10:03:44
+as400 ftp commands example,68.46019367040901,reference,medium,high_intent,4,low,good,2025-08-08 10:03:45
+hp-ux commands,68.07163728151484,reference,medium,high_intent,2,low,good,2025-08-08 10:03:46
+hp-ux dd command example,68.04490718406478,reference,medium,high_intent,4,low,good,2025-08-08 10:03:46
+linux terminal commands,67.95809538482789,reference,medium,high_intent,3,low,good,2025-08-08 10:03:44
+as400 query commands,67.24039510572004,reference,medium,high_intent,3,low,good,2025-08-08 10:03:45
+solaris vi editor commands,67.22458793242086,reference,medium,high_intent,4,low,good,2025-08-08 10:03:45
+as400 file commands,67.061829399283,reference,medium,high_intent,3,low,good,2025-08-08 10:03:45
+as400 ftp commands,66.67112653456269,reference,medium,high_intent,3,low,good,2025-08-08 10:03:45
+linux grub commands,66.52337050850923,reference,medium,high_intent,3,low,good,2025-08-08 10:03:44
+linux commands,66.45440751471975,reference,medium,high_intent,2,low,good,2025-08-08 10:03:44
+linux network commands,65.06212668826164,reference,medium,high_intent,3,low,good,2025-08-08 10:03:44
+linux quota command,64.61297637986576,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+hp-ux version command,64.41740919030389,reference,medium,informational,3,low,good,2025-08-08 10:03:45
+linux version check command,64.41474117659924,reference,medium,informational,4,low,good,2025-08-08 10:03:44
+windows terminal,64.30863664221295,reference,medium,informational,2,medium,good,2025-08-08 10:03:44
+linux kill command,64.00238755496642,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+linux ls command,63.72847968182078,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+osx zip command line,63.6004711210207,reference,medium,informational,4,low,good,2025-08-08 10:03:45
+windows activation command,63.57974121069267,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+linux yes command,63.38323528668616,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+windows command prompt,63.362067167713434,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+windows terminal admin,62.93807009482356,reference,medium,informational,3,medium,good,2025-08-08 10:03:44
+linux zip command,62.91362146913117,reference,medium,informational,3,low,good,2025-08-08 10:03:45
+ios-xe command reference,62.870332011291765,reference,medium,informational,3,low,good,2025-08-08 10:03:45
+linux scp command,62.8078599342215,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+linux -y command,62.344115994091155,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+openbsd terminal,62.32313804544367,reference,medium,informational,2,medium,good,2025-08-08 10:03:45
+as400 zip command,61.97904197853383,reference,medium,informational,3,low,good,2025-08-08 10:03:45
+hpux mount command,61.92156007068099,reference,medium,informational,3,low,good,2025-08-08 10:03:45
+linux version command,61.80108835390823,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+linux awk command,61.770924272946544,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+hpux find command,61.325598099703576,reference,medium,informational,3,low,good,2025-08-08 10:03:45
+linux grep command,61.21031613983835,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+osx terminal themes,61.18544950854294,reference,medium,informational,3,medium,good,2025-08-08 10:03:45
+macos route command,61.12428866938788,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+linux sed command,60.93296762728409,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+linux terminal online,60.080210746521814,reference,medium,informational,3,medium,good,2025-08-08 10:03:44
+linux help command,60.00402531138543,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+linux join command,59.545039927698255,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+hpux history command,59.46852326889874,reference,medium,informational,3,low,good,2025-08-08 10:03:45
+linux useradd command,59.37898898060106,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+as400 ipl command,58.77461996144889,reference,medium,informational,3,low,good,2025-08-08 10:03:45
+hp-ux traceroute command,58.764502267904156,reference,medium,informational,3,low,good,2025-08-08 10:03:46
+linux ip address command,58.76346889551187,reference,medium,informational,4,low,good,2025-08-08 10:03:44
+osx terminal replacement,58.54423091392423,reference,medium,informational,3,medium,good,2025-08-08 10:03:45
+as400 get command,58.45408614073301,reference,medium,informational,3,low,good,2025-08-08 10:03:45
+as400 terminal,58.41769534300521,reference,medium,informational,2,medium,good,2025-08-08 10:03:45
+linux nano command,58.32771545046164,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+linux update command,58.3012841678953,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+linux history command,58.295453792132164,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+macos zip command line,58.28619225689931,reference,medium,informational,4,low,good,2025-08-08 10:03:44
+linux jobs command,58.15136893066979,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+macos open terminal,58.095353987001275,reference,medium,informational,3,medium,good,2025-08-08 10:03:44
+linux shutdown command,58.06449593403413,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+linux locate command,58.01660409564066,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+osx terminal,57.8989024915047,reference,medium,informational,2,medium,good,2025-08-08 10:03:45
+linux practice terminal,57.75701536673978,reference,medium,informational,3,medium,good,2025-08-08 10:03:44
+hpux date command,57.529113665105356,reference,medium,informational,3,low,good,2025-08-08 10:03:45
+linux tar command,57.519001775838134,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+hpux terminal too wide,57.45029564160082,reference,medium,informational,4,medium,good,2025-08-08 10:03:45
+as400 terminal emulator,57.21679425862863,reference,medium,informational,3,medium,good,2025-08-08 10:03:45
+linux restart command,57.10169822377409,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+as400 put command,56.991177596157954,reference,medium,informational,3,low,good,2025-08-08 10:03:45
+osx terminal options,56.89164089263423,reference,medium,informational,3,medium,good,2025-08-08 10:03:45
+as400 ovrprtf command,56.71514948053734,reference,medium,informational,3,low,good,2025-08-08 10:03:45
+osx desktop toast notification from command line,56.63442484453985,reference,medium,high_intent,7,high,good,2025-08-08 10:03:45
+hpux tar command,56.55216134675597,reference,medium,informational,3,low,good,2025-08-08 10:03:45
+ios xr command reference,56.5348126128708,reference,medium,informational,4,low,good,2025-08-08 10:03:45
+windows zip command,56.4103211155718,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+hp-ux route command,56.28752140190379,reference,medium,informational,3,low,good,2025-08-08 10:03:46
+hp-ux route command,56.25076639201759,reference,medium,informational,3,low,good,2025-08-08 10:03:45
+as400 command cheat sheets,56.1178818017955,reference,medium,informational,4,low,good,2025-08-08 10:03:45
+android no command,56.07520994467013,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+osx virtual terminal,55.99207443491539,reference,medium,informational,3,medium,good,2025-08-08 10:03:45
+linux unzip command,55.8375070444919,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+macos firewall command line,55.80179102311324,reference,medium,informational,4,low,good,2025-08-08 10:03:44
+linux touch command,55.57381066631588,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+linux xxd command,55.24360923923486,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+linux ip command,54.85314403372719,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+hpux terminal,54.40540358014449,reference,medium,informational,2,medium,good,2025-08-08 10:03:45
+linux find command,54.38142510919267,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+linux sudo command,54.30916270071691,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+windows virus scan command,54.208801568700615,reference,medium,informational,4,low,good,2025-08-08 10:03:44
+linux dd command,54.107551710742385,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+linux jq command,53.99838368143531,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+linux yum command,53.86860898583459,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+as400 restore command,53.63444036000832,reference,medium,informational,3,low,good,2025-08-08 10:03:45
+macos zip command,53.61984701652441,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+linux reboot command,53.408581531812814,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+linux ln command,53.16824483277734,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+macos terminal,53.035852043001974,reference,medium,informational,2,medium,good,2025-08-08 10:03:44
+linux nc command,52.77100103608617,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+linux hostname command,52.59838621707667,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+linux quit command,52.3850355401377,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+linux wc command,52.33828285790261,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+linux rm command,52.32411147864226,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+macos log command,52.3024805473306,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+linux jobs command,52.3002701225501,reference,medium,informational,3,low,good,2025-08-08 10:03:45
+linux online terminal,52.29615091971577,reference,medium,informational,3,medium,good,2025-08-08 10:03:44
+osx command t,52.26428259776446,reference,medium,informational,3,low,good,2025-08-08 10:03:45
+linux terminal,52.17588109058234,reference,medium,informational,2,medium,good,2025-08-08 10:03:44
+linux command line,52.09429577240367,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+as400 wrkobj command,52.07373550979571,reference,medium,informational,3,low,good,2025-08-08 10:03:45
+osx terminal slow,52.0106000056447,reference,medium,informational,3,medium,good,2025-08-08 10:03:45
+as400 ftp put command example,51.92904791859721,reference,medium,high_intent,5,low,good,2025-08-08 10:03:45
+linux bluetooth command line,51.87072532038344,reference,medium,informational,4,low,good,2025-08-08 10:03:44
+hp-ux version command,51.79220879873438,reference,medium,informational,3,low,good,2025-08-08 10:03:46
+linux zip command,51.68484545559265,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+linux head command,51.652795525584466,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+linux watch command,51.63071826315404,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+linux rename command,51.61832202022447,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+linux nice command,51.615483554222905,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+linux terminal for windows,51.458791153349914,reference,medium,informational,4,medium,good,2025-08-08 10:03:44
+linux mount command,51.27327894743501,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+hpux reboot command,50.94054662974339,reference,medium,informational,3,low,good,2025-08-08 10:03:45
+linux mv command,50.879467866284266,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+solaris zip command,50.761509519155055,reference,medium,informational,3,low,good,2025-08-08 10:03:45
+linux ps command,50.75708397042748,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+hpux df command,50.478233668989525,reference,medium,informational,3,low,good,2025-08-08 10:03:45
+linux echo command,50.43596326043547,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+linux export command,50.378347829173066,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+osx terminal startup,50.279546362003856,reference,medium,informational,3,medium,good,2025-08-08 10:03:45
+linux cat command,50.21527424705477,reference,medium,informational,3,low,good,2025-08-08 10:03:44
+netbsd terminal,50.01713737202923,reference,medium,informational,2,medium,good,2025-08-08 10:03:46
+as400 commands cheat sheet pdf,45.92385702969068,reference,medium,high_intent,5,low,fair,2025-08-08 10:03:45
+osx open finder from terminal,43.057060858626926,reference,medium,informational,5,medium,fair,2025-08-08 10:03:45
+osx open app command line,41.60551172712738,reference,medium,informational,5,low,fair,2025-08-08 10:03:45
+linux online terminal for practice,40.825677072223016,reference,medium,informational,5,medium,fair,2025-08-08 10:03:44
+macos get mac address terminal,39.36189954861739,reference,medium,informational,5,medium,fair,2025-08-08 10:03:44
+linux network configuration command line,37.0836251174132,reference,medium,informational,5,low,fair,2025-08-08 10:03:44
+linux hard disk info command,35.7920305508119,reference,medium,informational,5,low,fair,2025-08-08 10:03:44
+macos zsh command not found,33.70529739591852,reference,medium,informational,5,low,fair,2025-08-08 10:03:44
+macos open text editor from terminal,33.55231803709778,reference,medium,informational,6,medium,fair,2025-08-08 10:03:44
+macos empty trash from terminal,31.53209891082774,reference,medium,informational,5,medium,fair,2025-08-08 10:03:44

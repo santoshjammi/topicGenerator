@@ -1,0 +1,108 @@
+keyword,priority_score,content_type,difficulty,search_intent,word_count,estimated_competition,content_potential,processed_date
+linux tutorials for beginners,100.0,tutorial,beginner,high_intent,4,medium,excellent,2025-08-08 10:03:44
+as400 tutorial for beginners,100.0,tutorial,beginner,high_intent,4,medium,excellent,2025-08-08 10:03:45
+freebsd how to jail,100.0,tutorial,medium,high_intent,4,medium,excellent,2025-08-08 10:03:45
+freebsd jails tutorial,100.0,tutorial,medium,high_intent,3,medium,excellent,2025-08-08 10:03:45
+freebsd how to mount,96.91497692655872,tutorial,medium,high_intent,4,medium,excellent,2025-08-08 10:03:45
+operating systems basics tutorial,96.74698078401254,tutorial,beginner,high_intent,4,medium,excellent,2025-08-08 10:03:45
+freebsd how to use,96.48749974758046,tutorial,medium,high_intent,4,medium,excellent,2025-08-08 10:03:45
+ios jailbreak guide,94.10958074187519,tutorial,medium,high_intent,3,medium,excellent,2025-08-08 10:03:44
+freebsd installation guide,92.56927458127912,tutorial,medium,high_intent,3,medium,excellent,2025-08-08 10:03:45
+freebsd samba tutorial,91.46530435642298,tutorial,medium,high_intent,3,medium,excellent,2025-08-08 10:03:45
+freebsd show routes,91.34637660741262,tutorial,medium,high_intent,3,medium,excellent,2025-08-08 10:03:45
+as400 mainframe tutorial,90.59045521553726,tutorial,medium,high_intent,3,medium,excellent,2025-08-08 10:03:45
+freebsd how to update,88.40559097163047,tutorial,medium,high_intent,4,medium,excellent,2025-08-08 10:03:45
+aix tutorial,88.22331686352618,tutorial,medium,high_intent,2,medium,excellent,2025-08-08 10:03:45
+operating systems tutorialspoint,88.18099306915154,tutorial,expert,high_intent,3,medium,excellent,2025-08-08 10:03:45
+as400 system tutorial,88.16934721766825,tutorial,expert,high_intent,3,medium,excellent,2025-08-08 10:03:45
+freebsd how to ssh,86.40157618691441,tutorial,medium,high_intent,4,medium,excellent,2025-08-08 10:03:45
+freebsd guide,86.36532264831771,tutorial,medium,high_intent,2,medium,excellent,2025-08-08 10:03:45
+freebsd tutorials,84.83838528873953,tutorial,medium,high_intent,2,medium,excellent,2025-08-08 10:03:45
+openbsd how to,84.76244745221221,tutorial,medium,high_intent,3,medium,excellent,2025-08-08 10:03:45
+how to update openbsd,84.63787015172399,tutorial,medium,high_intent,4,medium,excellent,2025-08-08 10:03:45
+macos user guide,84.62942049380133,tutorial,medium,high_intent,3,medium,excellent,2025-08-08 10:03:44
+android tutorial,84.46338679401772,tutorial,medium,high_intent,2,medium,excellent,2025-08-08 10:03:44
+ios human interface guidelines,83.70154409157217,tutorial,medium,high_intent,4,medium,excellent,2025-08-08 10:03:44
+as400 user guide,83.51803111807673,tutorial,medium,high_intent,3,medium,excellent,2025-08-08 10:03:45
+operating systems tutorial,83.48147197800712,tutorial,expert,high_intent,3,medium,excellent,2025-08-08 10:03:45
+operating systems tutorial javatpoint,83.36957812196921,tutorial,expert,high_intent,4,medium,excellent,2025-08-08 10:03:45
+macos xcode tutorial,83.03635757924229,tutorial,medium,high_intent,3,medium,excellent,2025-08-08 10:03:44
+android development tutorial,83.02793995900791,tutorial,expert,high_intent,3,medium,excellent,2025-08-08 10:03:44
+android xml tutorial,82.78556231323427,tutorial,medium,high_intent,3,medium,excellent,2025-08-08 10:03:44
+openbsd router guide,82.67403577942191,tutorial,medium,high_intent,3,medium,excellent,2025-08-08 10:03:45
+as400 accounts payable tutorial,82.64566383532225,tutorial,medium,high_intent,4,medium,excellent,2025-08-08 10:03:45
+freebsd tutorial,82.63294179923841,tutorial,medium,high_intent,2,medium,excellent,2025-08-08 10:03:45
+operating systems guide,82.62709389116,tutorial,expert,high_intent,3,medium,excellent,2025-08-08 10:03:45
+ios guide,82.5157082015323,tutorial,medium,high_intent,2,medium,excellent,2025-08-08 10:03:44
+hpux certification guide,81.97807550769203,tutorial,medium,high_intent,3,medium,excellent,2025-08-08 10:03:46
+openbsd guide,81.94646780129817,tutorial,medium,high_intent,2,medium,excellent,2025-08-08 10:03:45
+linux tutorial w3schools,81.4057315294007,tutorial,medium,high_intent,3,medium,excellent,2025-08-08 10:03:44
+as400 query user's guide,81.19547384054843,tutorial,medium,high_intent,4,medium,excellent,2025-08-08 10:03:45
+android kotlin tutorial,81.05488196915806,tutorial,medium,high_intent,3,medium,excellent,2025-08-08 10:03:44
+netbsd how to,80.96429130642534,tutorial,medium,high_intent,3,medium,excellent,2025-08-08 10:03:45
+hp-ux how to,80.54859079936261,tutorial,medium,high_intent,3,medium,excellent,2025-08-08 10:03:46
+hpux certification guide,79.90705924146515,tutorial,medium,high_intent,3,medium,excellent,2025-08-08 10:03:45
+ios.cfw.guide trollstore,79.82861754412103,tutorial,medium,high_intent,2,medium,excellent,2025-08-08 10:03:45
+ios tutorial,79.0245291357954,tutorial,medium,high_intent,2,medium,excellent,2025-08-08 10:03:44
+ios cfw guide,78.69611200468046,tutorial,medium,high_intent,3,medium,excellent,2025-08-08 10:03:44
+android java tutorial,78.28294696444024,tutorial,medium,high_intent,3,medium,excellent,2025-08-08 10:03:44
+ios guidelines,78.17798485662834,tutorial,medium,high_intent,2,medium,excellent,2025-08-08 10:03:44
+macos user guide pdf,78.05101189342437,tutorial,medium,high_intent,4,medium,excellent,2025-08-08 10:03:44
+as400 gestionale tutorial,77.42873634973532,tutorial,medium,high_intent,3,medium,excellent,2025-08-08 10:03:45
+as400 tutorial,76.9354620964465,tutorial,medium,high_intent,2,medium,excellent,2025-08-08 10:03:45
+netbsd installation guide,76.50802574267405,tutorial,medium,high_intent,3,medium,excellent,2025-08-08 10:03:45
+as400 installation guide,76.26278469597536,tutorial,medium,high_intent,3,medium,excellent,2025-08-08 10:03:45
+windows how to screenshot,76.02420911105109,tutorial,medium,high_intent,4,medium,excellent,2025-08-08 10:03:44
+netbsd guide,75.83736564848756,tutorial,medium,high_intent,2,medium,excellent,2025-08-08 10:03:45
+as400 software tutorial,75.55678600301125,tutorial,medium,high_intent,3,medium,excellent,2025-08-08 10:03:45
+openbsd tutorial,75.52180075726139,tutorial,medium,high_intent,2,medium,excellent,2025-08-08 10:03:45
+android jetpack compose tutorial,75.08105705044427,tutorial,medium,high_intent,4,medium,excellent,2025-08-08 10:03:44
+netbsd tutorial,74.94317544684269,tutorial,medium,high_intent,2,medium,excellent,2025-08-08 10:03:46
+as400 erp tutorial,74.90222235774104,tutorial,medium,high_intent,3,medium,excellent,2025-08-08 10:03:45
+as400 synon tutorial,74.69098741770023,tutorial,medium,high_intent,3,medium,excellent,2025-08-08 10:03:45
+as400 how to use,74.56238067082822,tutorial,medium,high_intent,4,medium,excellent,2025-08-08 10:03:45
+how to update netbsd,74.49920024330959,tutorial,medium,high_intent,4,medium,excellent,2025-08-08 10:03:45
+linux guide,74.4411676280747,tutorial,medium,high_intent,2,medium,excellent,2025-08-08 10:03:44
+macos guide,74.34250104679367,tutorial,medium,high_intent,2,medium,excellent,2025-08-08 10:03:44
+freebsd how to setup dhcp,74.14966125609457,tutorial,medium,high_intent,5,medium,excellent,2025-08-08 10:03:45
+linux tutorial,73.96328288279689,tutorial,medium,high_intent,2,medium,excellent,2025-08-08 10:03:44
+as400 tutorial pdf,73.92783425232037,tutorial,medium,high_intent,3,medium,excellent,2025-08-08 10:03:45
+linux qt tutorial,73.87608542040402,tutorial,medium,high_intent,3,medium,excellent,2025-08-08 10:03:44
+openbsd install guide,73.7598757582931,tutorial,medium,high_intent,3,medium,excellent,2025-08-08 10:03:45
+linux tutorialspoint,72.90893863362204,tutorial,medium,high_intent,2,medium,excellent,2025-08-08 10:03:44
+as400 guide,72.74943710603151,tutorial,medium,high_intent,2,medium,excellent,2025-08-08 10:03:45
+aix show,72.18879680675492,tutorial,medium,high_intent,2,medium,excellent,2025-08-08 10:03:45
+aix how to install rpm,72.09739516308724,tutorial,medium,high_intent,5,medium,excellent,2025-08-08 10:03:45
+android studio tutorial,71.58472994478362,tutorial,medium,high_intent,3,medium,excellent,2025-08-08 10:03:44
+aix airshow,71.57660875184122,tutorial,medium,high_intent,2,medium,excellent,2025-08-08 10:03:45
+ios design guidelines,71.49961458441874,tutorial,medium,high_intent,3,medium,excellent,2025-08-08 10:03:44
+how to install openbsd,70.77977917367954,tutorial,medium,high_intent,4,medium,excellent,2025-08-08 10:03:45
+operating systems how to find,65.8964947713165,tutorial,expert,high_intent,5,medium,good,2025-08-08 10:03:45
+linux operating system tutorial pdf,63.62478764044506,tutorial,expert,high_intent,5,medium,good,2025-08-08 10:03:44
+osx how to check application memory system,61.72840262970137,tutorial,expert,high_intent,7,medium,good,2025-08-08 10:03:45
+netbsd how to install packages,59.93339980317487,tutorial,medium,high_intent,5,medium,good,2025-08-08 10:03:45
+hp-ux chown,59.4557729400254,tutorial,medium,high_intent,2,medium,good,2025-08-08 10:03:46
+solaris bolechowo,59.02055594409623,tutorial,medium,high_intent,2,medium,good,2025-08-08 10:03:45
+osx show wifi password,58.74927922569636,tutorial,medium,high_intent,4,medium,good,2025-08-08 10:03:45
+android how to take a screenshot,57.89212071371087,tutorial,medium,high_intent,6,medium,good,2025-08-08 10:03:44
+osx show hidden files,56.30559618455362,tutorial,medium,high_intent,4,medium,good,2025-08-08 10:03:45
+how to update osx yosemite 10.10.5,56.12606369224445,tutorial,medium,high_intent,6,medium,good,2025-08-08 10:03:45
+aix patching steps,54.28362502691168,tutorial,medium,informational,3,medium,good,2025-08-08 10:03:45
+as400 how to get active jobs,53.75811184606206,tutorial,medium,high_intent,6,medium,good,2025-08-08 10:03:45
+osx how to save screenshot,52.18470432497938,tutorial,medium,high_intent,5,medium,good,2025-08-08 10:03:45
+how to upgrade from osx yosemite,52.143440779123765,tutorial,medium,high_intent,6,medium,good,2025-08-08 10:03:45
+as400 how to see os version,52.06266663143958,tutorial,medium,high_intent,6,medium,good,2025-08-08 10:03:45
+linux history command show all,51.50390492336861,tutorial,medium,high_intent,5,low,good,2025-08-08 10:03:44
+macos show hidden files,51.28745625404076,tutorial,medium,high_intent,4,medium,good,2025-08-08 10:03:44
+how do operating systems work,49.71740519760109,tutorial,expert,high_intent,5,medium,fair,2025-08-08 10:03:45
+hpux show ip address,47.70523125247582,tutorial,medium,high_intent,4,medium,fair,2025-08-08 10:03:45
+how many operating systems are there,39.38145224663873,tutorial,expert,high_intent,6,medium,fair,2025-08-08 10:03:45
+as400 how do restore from network devices,37.90235225826914,tutorial,medium,high_intent,7,medium,fair,2025-08-08 10:03:45
+android quickstep,36.93888530673875,tutorial,medium,informational,2,medium,fair,2025-08-08 10:03:44
+ios network reset steps,36.700195395013786,tutorial,medium,informational,4,medium,fair,2025-08-08 10:03:44
+macos finder show hidden files,34.06506377405243,tutorial,medium,high_intent,5,medium,fair,2025-08-08 10:03:44
+osx finder show hidden files,32.06364326109378,tutorial,medium,high_intent,5,medium,fair,2025-08-08 10:03:45
+as400 how do restore object from network,28.90399920806318,tutorial,medium,high_intent,7,medium,poor,2025-08-08 10:03:45
+as400 how do schedule pwrdown as400,28.8670726966693,tutorial,medium,high_intent,6,medium,poor,2025-08-08 10:03:45
+as400 how do crt remote printer,28.016499240757835,tutorial,medium,high_intent,6,medium,poor,2025-08-08 10:03:45
+as400 how add new field from cpyf,27.501916638025452,tutorial,medium,high_intent,7,medium,poor,2025-08-08 10:03:45

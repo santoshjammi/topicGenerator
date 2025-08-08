@@ -1,0 +1,155 @@
+CONTENT STRATEGY REPORT
+==================================================
+Generated: 2025-08-08 10:03:46
+
+EXECUTIVE SUMMARY:
+--------------------
+High Priority Keywords: 1530
+Medium Priority Keywords: 1715
+Tutorial Opportunities: 107
+Comparison Content: 129
+Career-focused Content: 134
+
+HIGH PRIORITY - START HERE:
+--------------------------
+ 1. linux tutorials for beginners (Score: 100.0, Type: tutorial, Difficulty: beginner)
+ 2. as400 basic commands (Score: 100.0, Type: reference, Difficulty: beginner)
+ 3. as400 tutorial for beginners (Score: 100.0, Type: tutorial, Difficulty: beginner)
+ 4. freebsd how to jail (Score: 100.0, Type: tutorial, Difficulty: medium)
+ 5. freebsd jail vs docker (Score: 100.0, Type: comparison, Difficulty: medium)
+ 6. freebsd jails tutorial (Score: 100.0, Type: tutorial, Difficulty: medium)
+ 7. freebsd xen vs bhyve (Score: 97.6, Type: comparison, Difficulty: medium)
+ 8. freebsd how to mount (Score: 96.9, Type: tutorial, Difficulty: medium)
+ 9. aix commands list (Score: 96.8, Type: reference, Difficulty: medium)
+10. operating systems basics tutorial (Score: 96.7, Type: tutorial, Difficulty: beginner)
+11. freebsd how to use (Score: 96.5, Type: tutorial, Difficulty: medium)
+12. freebsd vs openbsd (Score: 95.4, Type: comparison, Difficulty: medium)
+13. freebsd vs linux (Score: 95.3, Type: comparison, Difficulty: medium)
+14. windows live mail download (Score: 94.7, Type: general, Difficulty: medium)
+15. freebsd jail network (Score: 94.7, Type: general, Difficulty: medium)
+16. linux commands for beginners (Score: 94.6, Type: reference, Difficulty: beginner)
+17. solaris gtr vst free (Score: 94.6, Type: comparison, Difficulty: medium)
+18. freebsd mailing lists (Score: 94.4, Type: general, Difficulty: medium)
+19. ios jailbreak guide (Score: 94.1, Type: tutorial, Difficulty: medium)
+20. freebsd jail host (Score: 94.1, Type: general, Difficulty: medium)
+21. aix rpm download (Score: 93.7, Type: general, Difficulty: medium)
+22. aix powermt commands (Score: 93.5, Type: reference, Difficulty: medium)
+23. osx mountain lion download (Score: 93.5, Type: general, Difficulty: medium)
+24. freebsd zfs vs ufs (Score: 93.5, Type: comparison, Difficulty: medium)
+25. linux basic commands (Score: 93.0, Type: reference, Difficulty: beginner)
+26. aix downloader(picture/video/music) (Score: 92.8, Type: general, Difficulty: medium)
+27. freebsd vnet jails (Score: 92.7, Type: general, Difficulty: medium)
+28. freebsd installation guide (Score: 92.6, Type: tutorial, Difficulty: medium)
+29. freebsd vs debian (Score: 92.4, Type: comparison, Difficulty: medium)
+30. aix xlc download (Score: 92.4, Type: general, Difficulty: medium)
+
+TUTORIAL CONTENT OPPORTUNITIES:
+------------------------------
+ 1. linux tutorials for beginners (Score: 100.0, Type: tutorial, Difficulty: beginner)
+ 2. as400 tutorial for beginners (Score: 100.0, Type: tutorial, Difficulty: beginner)
+ 3. freebsd how to jail (Score: 100.0, Type: tutorial, Difficulty: medium)
+ 4. freebsd jails tutorial (Score: 100.0, Type: tutorial, Difficulty: medium)
+ 5. freebsd how to mount (Score: 96.9, Type: tutorial, Difficulty: medium)
+ 6. operating systems basics tutorial (Score: 96.7, Type: tutorial, Difficulty: beginner)
+ 7. freebsd how to use (Score: 96.5, Type: tutorial, Difficulty: medium)
+ 8. ios jailbreak guide (Score: 94.1, Type: tutorial, Difficulty: medium)
+ 9. freebsd installation guide (Score: 92.6, Type: tutorial, Difficulty: medium)
+10. freebsd samba tutorial (Score: 91.5, Type: tutorial, Difficulty: medium)
+11. freebsd show routes (Score: 91.3, Type: tutorial, Difficulty: medium)
+12. as400 mainframe tutorial (Score: 90.6, Type: tutorial, Difficulty: medium)
+13. freebsd how to update (Score: 88.4, Type: tutorial, Difficulty: medium)
+14. aix tutorial (Score: 88.2, Type: tutorial, Difficulty: medium)
+15. operating systems tutorialspoint (Score: 88.2, Type: tutorial, Difficulty: expert)
+16. as400 system tutorial (Score: 88.2, Type: tutorial, Difficulty: expert)
+17. freebsd how to ssh (Score: 86.4, Type: tutorial, Difficulty: medium)
+18. freebsd guide (Score: 86.4, Type: tutorial, Difficulty: medium)
+19. freebsd tutorials (Score: 84.8, Type: tutorial, Difficulty: medium)
+20. openbsd how to (Score: 84.8, Type: tutorial, Difficulty: medium)
+21. how to update openbsd (Score: 84.6, Type: tutorial, Difficulty: medium)
+22. macos user guide (Score: 84.6, Type: tutorial, Difficulty: medium)
+23. android tutorial (Score: 84.5, Type: tutorial, Difficulty: medium)
+24. ios human interface guidelines (Score: 83.7, Type: tutorial, Difficulty: medium)
+25. as400 user guide (Score: 83.5, Type: tutorial, Difficulty: medium)
+
+COMPARISON ARTICLES:
+-------------------
+ 1. freebsd jail vs docker (Score: 100.0, Type: comparison, Difficulty: medium)
+ 2. freebsd xen vs bhyve (Score: 97.6, Type: comparison, Difficulty: medium)
+ 3. freebsd vs openbsd (Score: 95.4, Type: comparison, Difficulty: medium)
+ 4. freebsd vs linux (Score: 95.3, Type: comparison, Difficulty: medium)
+ 5. solaris gtr vst free (Score: 94.6, Type: comparison, Difficulty: medium)
+ 6. freebsd zfs vs ufs (Score: 93.5, Type: comparison, Difficulty: medium)
+ 7. freebsd vs debian (Score: 92.4, Type: comparison, Difficulty: medium)
+ 8. freebsd vs windows (Score: 91.2, Type: comparison, Difficulty: medium)
+ 9. freebsd vscode (Score: 90.4, Type: comparison, Difficulty: medium)
+10. freebsd vs ghostbsd (Score: 90.0, Type: comparison, Difficulty: medium)
+11. freebsd vs arch (Score: 89.5, Type: comparison, Difficulty: medium)
+12. as400 vs mainframe (Score: 86.7, Type: comparison, Difficulty: medium)
+13. netbsd vs freebsd (Score: 86.4, Type: comparison, Difficulty: medium)
+14. freebsd vs netbsd (Score: 86.2, Type: comparison, Difficulty: medium)
+15. aix vs linux (Score: 86.0, Type: comparison, Difficulty: medium)
+16. freebsd xorg vs wayland (Score: 85.5, Type: comparison, Difficulty: medium)
+17. freebsd vs ubuntu (Score: 85.1, Type: comparison, Difficulty: medium)
+18. freebsd vs unix (Score: 85.1, Type: comparison, Difficulty: medium)
+19. freebsd vs solaris (Score: 85.1, Type: comparison, Difficulty: medium)
+20. openbsd vs freebsd (Score: 84.9, Type: comparison, Difficulty: medium)
+
+BEGINNER-FRIENDLY CONTENT:
+-------------------------
+ 1. linux tutorials for beginners (Score: 100.0, Type: tutorial, Difficulty: beginner)
+ 2. as400 basic commands (Score: 100.0, Type: reference, Difficulty: beginner)
+ 3. as400 tutorial for beginners (Score: 100.0, Type: tutorial, Difficulty: beginner)
+ 4. operating systems basics tutorial (Score: 96.7, Type: tutorial, Difficulty: beginner)
+ 5. linux commands for beginners (Score: 94.6, Type: reference, Difficulty: beginner)
+ 6. linux basic commands (Score: 93.0, Type: reference, Difficulty: beginner)
+ 7. linux learning for beginners (Score: 79.3, Type: general, Difficulty: beginner)
+ 8. linux for beginners (Score: 74.0, Type: general, Difficulty: beginner)
+ 9. operating systems fundamentals (Score: 73.6, Type: general, Difficulty: beginner)
+10. linux basic interview questions (Score: 73.5, Type: general, Difficulty: beginner)
+11. operating systems basics cisco (Score: 73.3, Type: general, Difficulty: beginner)
+12. as400 beginners video (Score: 72.8, Type: general, Difficulty: beginner)
+13. operating systems basic concepts (Score: 72.5, Type: general, Difficulty: beginner)
+14. linux fundamentals (Score: 72.2, Type: general, Difficulty: beginner)
+15. android basics with compose (Score: 71.3, Type: general, Difficulty: beginner)
+16. linux basics (Score: 71.2, Type: general, Difficulty: beginner)
+17. as400 basics for beginners (Score: 69.7, Type: general, Difficulty: beginner)
+18. as400 for beginners (Score: 69.7, Type: general, Difficulty: beginner)
+19. operating systems basics (Score: 69.0, Type: general, Difficulty: beginner)
+20. linux basics for beginners (Score: 68.3, Type: general, Difficulty: beginner)
+
+CAREER-FOCUSED ARTICLES:
+-----------------------
+ 1. freebsd jobs (Score: 89.1, Type: career, Difficulty: medium)
+ 2. aix jobs in dubai (Score: 84.6, Type: career, Difficulty: medium)
+ 3. aix jobs in india (Score: 83.9, Type: career, Difficulty: medium)
+ 4. as400 freelance jobs (Score: 83.4, Type: career, Difficulty: medium)
+ 5. aix job openings (Score: 82.8, Type: career, Difficulty: medium)
+ 6. as400 jobs in dubai (Score: 82.8, Type: career, Difficulty: medium)
+ 7. aix administrator jobs (Score: 82.2, Type: career, Difficulty: medium)
+ 8. aix jobs uk (Score: 81.6, Type: career, Difficulty: medium)
+ 9. aix careers (Score: 77.3, Type: career, Difficulty: medium)
+10. operating systems jobs reddit (Score: 76.3, Type: career, Difficulty: expert)
+11. aix jobs remote (Score: 75.1, Type: career, Difficulty: medium)
+12. operating systems job (Score: 74.2, Type: career, Difficulty: expert)
+13. aix jobs south africa (Score: 74.1, Type: career, Difficulty: medium)
+14. aix jobs in bangalore (Score: 74.0, Type: career, Difficulty: medium)
+15. aix job description (Score: 73.8, Type: career, Difficulty: medium)
+
+PROBLEM-SOLVING GUIDES:
+----------------------
+ 1. freebsd error updating repositories (Score: 86.7, Type: general, Difficulty: medium)
+ 2. operating systems problems (Score: 77.8, Type: general, Difficulty: expert)
+ 3. aix fix central (Score: 77.7, Type: general, Difficulty: medium)
+ 4. ios yahoo mail problem (Score: 74.4, Type: general, Difficulty: medium)
+ 5. windows troubleshooter (Score: 68.9, Type: general, Difficulty: medium)
+ 6. windows update troubleshooter (Score: 68.5, Type: general, Difficulty: medium)
+ 7. osx wireless camera troubleshooting (Score: 67.4, Type: general, Difficulty: medium)
+ 8. windows error (Score: 66.5, Type: general, Difficulty: medium)
+ 9. ios onedrive troubleshooting (Score: 65.7, Type: general, Difficulty: medium)
+10. as400 error codes (Score: 65.5, Type: general, Difficulty: medium)
+11. windows error codes (Score: 64.1, Type: general, Difficulty: medium)
+12. osx nvr troubleshooting (Score: 63.2, Type: general, Difficulty: medium)
+13. ios problems (Score: 62.8, Type: general, Difficulty: medium)
+14. ios update 18.1.1 problems (Score: 62.6, Type: general, Difficulty: medium)
+15. as400 error 3401 (Score: 62.6, Type: general, Difficulty: medium)
+
