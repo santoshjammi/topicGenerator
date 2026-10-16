@@ -1,1 +1,4 @@
-requests
+requests>=2.31,<3
+pandas>=2.0,<3
+pytrends>=4.9.2
+aiohttp>=3.9,<4

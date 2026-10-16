@@ -1,80 +1,54 @@
-'''
-Nebula Keyword Researcher: is designed to scrape keywords from
-major search engines like Google, Bing and Yahoo.
-
-Copyright (C) 2021. Eneiro A. Matos B.
-
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU Affero General Public License as published
-by the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU Affero General Public License for more details.
-
-You should have received a copy of the GNU Affero General Public License
-along with this program.  If not, see <https://www.gnu.org/licenses/>.
-'''
-
-
-from search_engines import SearchEngineSuggestions as SES
-from file_writter import FileWriter as FW
+"""Generate search-engine suggestions for seed keywords."""
+from pathlib import Path
 from string import ascii_lowercase
+
 import config
-import sys
+from search_engines import SearchEngineSuggestions as SES
 
-try:
-    seed_kws = open(config.input_file, encoding='utf-8')
-except FileNotFoundError:
-    open(config.input_file, mode='w', encoding='utf-8')
-    print(f'The file {config.input_file} has been created.\n'
-          f'Proceed as follow:\n'
-          f'\t1. Put your initial keyword there, one per line.\n'
-          f'\t2. Pun this file again to scrape new keywords.\n')
-    input('Press any key to exit')
-    sys.exit()
-else:
-    try:
-        kw_getters = {'Google': SES.get_google,
-                      'Bing': SES.get_bing,
-                      'Yahoo': SES.get_yahoo,
-                      #'Yandex US': SES.get_yandex_us, RANDOM JSON FORMAT SOMETIMES
-                      'Ask': SES.get_ask,
-                      'DuckDuckGo': SES.get_duckduckgo,
-                      'Ecosia': SES.get_ecosia,
-                      'Brave': SES.get_brave
-                      }
-    
-        input_kws = [kw.strip('\n').strip() for kw in seed_kws.readlines() if kw not in ('', ' ', '\n', None)]
-    except Exception:
-        print(Exception)
-        pass
-    
-    if len(input_kws) == 0:
-        print(f'Please insert at least one keyword in {config.input_file} to start, and try again.')
-        input('Press any key to exit')
-        sys.exit()
+SEARCH_ENGINES = {
+    "Google": SES.get_google,
+    "Bing": SES.get_bing,
+    "Yahoo": SES.get_yahoo,
+    "Ask": SES.get_ask,
+    "DuckDuckGo": SES.get_duckduckgo,
+    "Ecosia": SES.get_ecosia,
+    "Brave": SES.get_brave,
+}
 
-    print(f'{len(input_kws)} keywords will be scanned against {len(kw_getters)} search engines.\n'
-          f'This process may take some time, please be patient.\n')
-    # input('Press any key to continue\n')
 
-    for kw in input_kws:
-        kws = tuple()
+def load_keywords(path: str) -> list[str]:
+    return [line.strip() for line in Path(path).read_text(encoding="utf-8").splitlines() if line.strip()]
+
+
+def collect_suggestions(input_keywords: list[str], search_engines=SEARCH_ENGINES) -> set[str]:
+    suggestions = set()
+    for keyword in input_keywords:
         for letter in ascii_lowercase:
-            new_kw = f'{kw} {letter}'
-            for se, getter in kw_getters.items():
-#                print(f'Exploring for {new_kw} in {se}')
-                try:
-                    kw_ses = SES.kw_results(getter, new_kw)
-                    kws += kw_ses
-                except Exception:
-                    pass
-#                print(f'{len(kw_ses)} keywords found in this step.\n')
-        FW.write_txt(kws)
-    with open(config.output_file, encoding='utf-8') as out_f:
-        print(f'File {config.output_file} has been created, '
-              f'{len(out_f.readlines())} unique keywords found.')
+            expanded = f"{keyword} {letter}"
+            for getter in search_engines.values():
+                suggestions.update(SES.kw_results(getter, expanded))
+    return suggestions
 
+
+def run(input_file: str = config.input_file, output_file: str = config.output_file) -> int:
+    input_path = Path(input_file)
+    if not input_path.exists():
+        input_path.write_text("", encoding="utf-8")
+        print(f"Created {input_path}; add one keyword per line and run again.")
+        return 0
+
+    keywords = load_keywords(str(input_path))
+    if not keywords:
+        print(f"Please insert at least one keyword in {input_path}.")
+        return 0
+
+    suggestions = collect_suggestions(keywords)
+    output_path = Path(output_file)
+    existing = set(output_path.read_text(encoding="utf-8").splitlines()) if output_path.exists() else set()
+    output_path.write_text("".join(f"{value}\n" for value in sorted(existing | suggestions)), encoding="utf-8")
+    print(f"{len(suggestions)} new unique keywords found; results saved to {output_path}.")
+    return len(suggestions)
+
+
+if __name__ == "__main__":
+    run()

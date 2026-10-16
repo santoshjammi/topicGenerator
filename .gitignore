@@ -1,0 +1,17 @@
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*.log
+*.backup
+*.tmp
+output-keywords.txt
+filtered-output-keywords.txt
+google_trends_results.csv
+google_trends_full_results.csv
+async_trends_results.csv
+test_google_trends_results.csv
+progress_batch_*.csv
+*_trending.csv
+*_summary.txt
+keyword_analysis_*.csv
+keyword_analysis_*.txt

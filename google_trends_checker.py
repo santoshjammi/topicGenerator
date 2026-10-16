@@ -5,7 +5,6 @@ Script to check Google Trends for keywords and identify trending keywords
 
 import time
 import csv
-from pytrends.request import TrendReq
 import pandas as pd
 from datetime import datetime
 import random
@@ -21,6 +20,13 @@ def check_google_trends(keywords_file, output_file, batch_size=5, delay_range=(1
         delay_range: Tuple of min and max delay between requests
     """
     
+    if batch_size < 1:
+        raise ValueError("batch_size must be at least 1")
+    if len(delay_range) != 2 or delay_range[0] < 0 or delay_range[1] < delay_range[0]:
+        raise ValueError("delay_range must be a non-negative (min, max) pair")
+
+    from pytrends.request import TrendReq
+
     # Initialize pytrends
     pytrends = TrendReq(hl='en-US', tz=360)
     
@@ -61,7 +67,7 @@ def check_google_trends(keywords_file, output_file, batch_size=5, delay_range=(1
                             
                             top_queries_count = len(top_related) if not top_related.empty else 0
                             rising_queries_count = len(rising_related) if not rising_related.empty else 0
-                        except:
+                        except Exception:
                             top_queries_count = 0
                             rising_queries_count = 0
                         
@@ -130,18 +136,20 @@ def check_google_trends(keywords_file, output_file, batch_size=5, delay_range=(1
             time.sleep(delay)
     
     # Save results to CSV
-    df = pd.DataFrame(results)
+    columns = ['keyword', 'avg_interest', 'max_interest', 'min_interest', 'trend_score',
+               'top_related_count', 'rising_related_count', 'has_trend_data', 'checked_date']
+    df = pd.DataFrame(results, columns=columns)
     df.to_csv(output_file, index=False)
     
     # Print summary
     print(f"\n=== GOOGLE TRENDS ANALYSIS SUMMARY ===")
     print(f"Total keywords checked: {len(keywords)}")
-    print(f"Keywords with trend data: {df['has_trend_data'].sum()}")
+    print(f"Keywords with trend data: {df['has_trend_data'].eq(True).sum()}")
     print(f"Keywords without trend data: {(~df['has_trend_data']).sum()}")
     print(f"Failed keywords: {len(failed_keywords)}")
     
     # Show top trending keywords
-    trending_keywords = df[df['trend_score'] > 0].sort_values('trend_score', ascending=False)
+    trending_keywords = df[df['trend_score'].fillna(0) > 0].sort_values('trend_score', ascending=False)
     
     print(f"\n=== TOP 20 TRENDING KEYWORDS ===")
     for idx, row in trending_keywords.head(20).iterrows():
@@ -175,10 +183,10 @@ def filter_trending_keywords(csv_file, min_trend_score=10, output_file=None):
     df = pd.read_csv(csv_file)
     
     # Filter trending keywords
-    trending = df[
-        (df['trend_score'] >= min_trend_score) & 
-        (df['has_trend_data'] == True)
-    ].sort_values('trend_score', ascending=False)
+    if min_trend_score < 0:
+        raise ValueError("min_trend_score must be non-negative")
+    has_data = df['has_trend_data'].astype(str).str.casefold().eq('true')
+    trending = df[(df['trend_score'] >= min_trend_score) & has_data].sort_values('trend_score', ascending=False)
     
     print(f"\n=== TRENDING KEYWORDS (Score >= {min_trend_score}) ===")
     print(f"Found {len(trending)} trending keywords:")

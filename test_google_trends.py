@@ -5,7 +5,6 @@ Test script to check Google Trends for a small set of keywords
 
 import time
 import csv
-from pytrends.request import TrendReq
 import pandas as pd
 from datetime import datetime
 import random
@@ -13,6 +12,10 @@ import random
 def check_google_trends_test(keywords_file, output_file, batch_size=3, delay_range=(2, 4)):
     """Test version with smaller batches and limited keywords"""
     
+    if batch_size < 1:
+        raise ValueError("batch_size must be at least 1")
+    from pytrends.request import TrendReq
+
     # Initialize pytrends
     pytrends = TrendReq(hl='en-US', tz=360)
     

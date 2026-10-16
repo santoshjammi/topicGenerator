@@ -28,6 +28,10 @@ logger = logging.getLogger(__name__)
 
 class AsyncTrendsChecker:
     def __init__(self, max_concurrent=5, delay_between_batches=3, max_retries=3):
+        if max_concurrent < 1 or max_retries < 1:
+            raise ValueError("max_concurrent and max_retries must be at least 1")
+        if delay_between_batches < 0:
+            raise ValueError("delay_between_batches must be non-negative")
         self.max_concurrent = max_concurrent
         self.delay_between_batches = delay_between_batches
         self.max_retries = max_retries
@@ -174,6 +178,8 @@ class AsyncTrendsChecker:
     
     async def process_all_keywords(self, keywords: List[str], batch_size: int = 50) -> List[Dict]:
         """Process all keywords in batches"""
+        if batch_size < 1:
+            raise ValueError("batch_size must be at least 1")
         total_keywords = len(keywords)
         logger.info(f"Starting async processing of {total_keywords} keywords")
         logger.info(f"Batch size: {batch_size}, Max concurrent: {self.max_concurrent}")
@@ -272,6 +278,10 @@ async def main():
 
 async def generate_analysis_report(df: pd.DataFrame, base_filename: str):
     """Generate comprehensive analysis report"""
+    required_columns = {'trend_score', 'search_volume_category', 'has_trend_data', 'keyword'}
+    missing = required_columns.difference(df.columns)
+    if missing:
+        raise ValueError(f"Missing required columns: {sorted(missing)}")
     
     # Filter trending keywords
     high_trend = df[df['trend_score'] >= 70].sort_values('trend_score', ascending=False)
@@ -301,7 +311,8 @@ async def generate_analysis_report(df: pd.DataFrame, base_filename: str):
         f.write("OVERVIEW:\n")
         f.write(f"Total keywords analyzed: {len(df)}\n")
         f.write(f"Keywords with data: {df['has_trend_data'].sum()}\n")
-        f.write(f"Average trend score: {df['trend_score'].mean():.2f}\n\n")
+        average = df['trend_score'].mean() if len(df) else 0
+        f.write(f"Average trend score: {average:.2f}\n\n")
         
         f.write("CATEGORY BREAKDOWN:\n")
         for category, count in category_counts.items():
