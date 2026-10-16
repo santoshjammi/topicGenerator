@@ -6,7 +6,7 @@ import pytest
 import config
 from file_writter import FileWriter
 from filter_keywords import filter_output_keywords
-from getInputs import append_unique_lines
+from getInputs import BASE_DIR, append_unique_lines, collect_text_files
 from google_trends_checker import check_google_trends
 from main import collect_suggestions
 from search_engines import SearchEngineSuggestions
@@ -59,6 +59,12 @@ def test_input_import_is_idempotent(tmp_path):
     assert append_unique_lines([source], target) == 2
     assert append_unique_lines([source], target) == 0
     assert target.read_text().splitlines() == ["one", "two"]
+
+
+def test_keyword_sources_keep_tooling_keywords_as_data():
+    source_names = {path.name for path in collect_text_files(BASE_DIR / "texts")}
+    assert "tooling_keywords.txt" in source_names
+    assert "requirements.txt" not in source_names
 
 
 def test_filter_is_case_insensitive_and_unique(tmp_path):

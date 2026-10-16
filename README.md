@@ -18,7 +18,9 @@ record failures in `log.txt`.
 
 ## Commands
 
-- `python getInputs.py` imports unique non-empty lines from `texts/*.txt`.
+- `python getInputs.py` imports unique non-empty lines from the keyword files in
+  `texts/*.txt`; `tooling_keywords.txt` is a keyword source, not a dependency
+  manifest.
 - `python main.py` collects suggestions for `input-keywords.txt`.
 - `python filter_keywords.py` creates `filtered-output-keywords.txt`.
 - `python filter_keywords_inplace.py` filters in place after confirmation and
